@@ -1,4 +1,4 @@
-# 🏥 आगरा COVID अस्पताल / Agra COVID Hospitals
+# आगरा COVID अस्पताल / Agra COVID Hospitals
 
 {% page-ref page="government.md" %}
 
