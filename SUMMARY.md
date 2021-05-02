@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [होमपेज / Home](README.md)
 * [हमारे बारे में / About Us](about-us.md)
 * [आगरा COVID दैनिक अपडेट / Agra COVID Daily Updates](agra-covid-daily-updates.md)
 * [आगरा में ऑक्सीजन आपूर्तिकर्ता / Oxygen Suppliers in Agra](oxygen-suppliers-in-agra.md)
