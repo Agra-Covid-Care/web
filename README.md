@@ -2,7 +2,7 @@
 description: Agra Crowd Sourced COVID Emergency Directory
 ---
 
-# होमपेज / Home
+# Home
 
 #### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
 
