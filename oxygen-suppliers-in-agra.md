@@ -32,11 +32,7 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 📍 Plot No 21, Radhika Residency, Near Nagla Nehra, Jalesar Road, Agra \([Open Map](https://www.google.com/maps/place/Agra+-+Jalesar+Rd,+Nagla,+Agra,+Uttar+Pradesh/@27.2410783,78.0504848,17z/data=!3m1!4b1!4m5!3m4!1s0x397461f354319963:0x5ffc64dadf300bf7!8m2!3d27.2497365!4d78.054573)\)
 
-📱 8630589848 - Not Verified ❌
-
-📱 9758815588 - Not Verified ❌
-
-📱 9627013154 - Not Verified ❌
+ℹGovernment Undertaken - Phone switched off
 
 ## टेढ़ी बघिया / Name Unknown, Tedi Bagiya - Not Verified ❌
 
