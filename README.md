@@ -6,6 +6,8 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 #### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
 
+{% page-ref page="about-us/" %}
+
 {% page-ref page="agra-covid-daily-updates.md" %}
 
 {% page-ref page="oxygen-suppliers-in-agra.md" %}
