@@ -118,5 +118,5 @@ Dhulia Ganj, Maharaja Agarsen Inter College Building, near Citytation, Agra, Utt
 
 📱 9897255777 \(हिमांशु / Himanshu\) - Not Verified ❌
 
-#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
+### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
 

@@ -4,7 +4,7 @@ description: 'Source: Hindustan Newspaper'
 
 # निजी COVID अस्पताल / Private COVID Hospitals
 
-**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** 
+**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps**
 
 [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
@@ -52,7 +52,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Sanjay Palace, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/foVUqgKWCRZzVdpX9)\)
 
-☎️ 0562 4000666 \| ☎️ 0562 2853952 
+☎️ 0562 4000666 \| ☎️ 0562 2853952
 
 📱 9837054578 \| 📱 9927200976
 
@@ -102,7 +102,7 @@ description: 'Source: Hindustan Newspaper'
 
 \*\*\*\*
 
-### पुरुषोत्तम दास सावित्री देवी ****हॉस्पिटल **/** Purshottam Das Savitri Devi Hospital
+### पुरुषोत्तम दास सावित्री देवी **\*\*हॉस्पिटल** /\*\* Purshottam Das Savitri Devi Hospital
 
 📍 NH 2, Shastripuram, Bain Bazar, Bajrang Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/DAhQRTjJh4vcNuQb9)\)
 
@@ -144,7 +144,7 @@ description: 'Source: Hindustan Newspaper'
 
 ## दिल्ली गेट / Delhi Gate
 
-### रवि अस्पताल **/** Ravi Hospital 
+### रवि अस्पताल **/** Ravi Hospital
 
 📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/eVkW9uG5xHP75AiQ6)\)
 
@@ -212,7 +212,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Firozabad Road, Rambagh, Trans Yamuna Colony, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/7zJoYzbGwyywXFi58)\)
 
-☎️ 0562 4001062 
+☎️ 0562 4001062
 
 📱 9897240007 \| 📱 8439867002
 
@@ -224,7 +224,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Firozabad Rd, Rambagh, T.Y.C. Phase-II, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/upGHcsa17btPa9CA6)\)
 
-☎️ 0562 4057760 
+☎️ 0562 4057760
 
 📱 9412257292 \| 📱 9634210100
 
@@ -262,11 +262,11 @@ description: 'Source: Hindustan Newspaper'
 
 ## न्यू आगरा / **New Agra**
 
-### यशवंत ****हॉस्पिटल  / Yashwant Hospital
+### यशवंत _\*\*_हॉस्पिटल  / Yashwant Hospital
 
 📍 Indra Puri, New Agra Colony, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/5TxNdoN7jvBpo2L97)\)
 
-☎️ 0562 4000045 
+☎️ 0562 4000045
 
 📱 9837082020 \| 📱 9411261011
 
