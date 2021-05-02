@@ -2,7 +2,7 @@
 
 * [होमपेज / Home](README.md)
 * [हमारे बारे में / About Us](about-us/README.md)
-  * [सोशल मीडिया हैंडल / Social Media Handles](about-us/social-media-handles.md)
+  * [सोशल मीडिया हैंडल / Social Media Handles](about-us/social-media.md)
 * [आगरा COVID दैनिक अपडेट / Agra COVID Daily Updates](agra-covid-daily-updates.md)
 * [आगरा में ऑक्सीजन आपूर्तिकर्ता / Oxygen Suppliers in Agra](oxygen-suppliers-in-agra.md)
 * [🏥 आगरा COVID अस्पताल / Agra COVID Hospitals](agra-covid-hospitals/README.md)
