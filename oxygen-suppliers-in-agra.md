@@ -10,6 +10,12 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 2. पहचान के लिए आधार कार्ड आदि / Aadhar Card etc for identification 
 3. खाली सिलेंडर जो वहाँ रीफिल किया जाएगा / Empty Cylinders which will be refilled there
 
+## अग्रवाल INC / Agarwal INC \(Government Undertaken\) ✅
+
+📍 Plot No 21, Radhika Residency, Near Nagla Nehra, Jalesar Road, Agra \([Open Map](https://www.google.com/maps/place/Agra+-+Jalesar+Rd,+Nagla,+Agra,+Uttar+Pradesh/@27.2410783,78.0504848,17z/data=!3m1!4b1!4m5!3m4!1s0x397461f354319963:0x5ffc64dadf300bf7!8m2!3d27.2497365!4d78.054573)\)
+
+ℹ Government Undertaken - Phone switched off
+
 ## एडवांस गैस / Advance Gases ✅
 
 📍 C-5, Upsidc Industrial Area Site C, Sikandra, Agra \([Open Map](https://www.google.com/maps/place/Mohammadpur,+Uttar+Pradesh/@27.2037924,77.9092031,12.96z/data=!4m5!3m4!1s0x397387ff26f1a195:0x2830e5038de989e2!8m2!3d27.2145617!4d77.9249919) - Area Location\)
@@ -27,18 +33,6 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 📱 9897633878 - Not Verified ❌
 
 📱 9897652861 \(मंजीत / Manjeet\) ✅
-
-## अग्रवाल INC / Agarwal INC ✅
-
-📍 Plot No 21, Radhika Residency, Near Nagla Nehra, Jalesar Road, Agra \([Open Map](https://www.google.com/maps/place/Agra+-+Jalesar+Rd,+Nagla,+Agra,+Uttar+Pradesh/@27.2410783,78.0504848,17z/data=!3m1!4b1!4m5!3m4!1s0x397461f354319963:0x5ffc64dadf300bf7!8m2!3d27.2497365!4d78.054573)\)
-
-ℹGovernment Undertaken - Phone switched off
-
-## टेढ़ी बघिया / Name Unknown, Tedi Bagiya - Not Verified ❌
-
-📍 Tedi Bagiya, Agra, Uttar Pradesh
-
-📱 9528881571 \(कृष्णा / Krishna\) - Not Verified ❌
 
 ## आगरा मेडिकल गैस सेंटर / Agra Medical Gas Centre - Not Verified ❌
 
