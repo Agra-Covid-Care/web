@@ -6,9 +6,15 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 ## आवश्यक चीजों / Things required
 
-1. डॉक्टर के पर्चे / Doctor’s prescription 
+1. 📃डॉक्टर के पर्चे / Doctor’s prescription 
 2. पहचान के लिए आधार कार्ड आदि / Aadhar Card etc for identification 
 3. खाली सिलेंडर जो वहाँ रीफिल किया जाएगा / Empty Cylinders which will be refilled there
+
+## अग्रवाल INC / Agarwal INC \(Government Undertaken\) ✅
+
+📍 Plot No 21, Radhika Residency, Near Nagla Nehra, Jalesar Road, Agra \([Open Map](https://www.google.com/maps/place/Agra+-+Jalesar+Rd,+Nagla,+Agra,+Uttar+Pradesh/@27.2410783,78.0504848,17z/data=!3m1!4b1!4m5!3m4!1s0x397461f354319963:0x5ffc64dadf300bf7!8m2!3d27.2497365!4d78.054573)\)
+
+ℹ Government Undertaken - Phone switched off
 
 ## एडवांस गैस / Advance Gases ✅
 
@@ -27,22 +33,6 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 📱 9897633878 - Not Verified ❌
 
 📱 9897652861 \(मंजीत / Manjeet\) ✅
-
-## अग्रवाल INC / Agarwal INC ✅
-
-📍 Plot No 21, Radhika Residency, Near Nagla Nehra, Jalesar Road, Agra \([Open Map](https://www.google.com/maps/place/Agra+-+Jalesar+Rd,+Nagla,+Agra,+Uttar+Pradesh/@27.2410783,78.0504848,17z/data=!3m1!4b1!4m5!3m4!1s0x397461f354319963:0x5ffc64dadf300bf7!8m2!3d27.2497365!4d78.054573)\)
-
-📱 8630589848 - Not Verified ❌
-
-📱 9758815588 - Not Verified ❌
-
-📱 9627013154 - Not Verified ❌
-
-## टेढ़ी बघिया / Name Unknown, Tedi Bagiya - Not Verified ❌
-
-📍 Tedi Bagiya, Agra, Uttar Pradesh
-
-📱 9528881571 \(कृष्णा / Krishna\) - Not Verified ❌
 
 ## आगरा मेडिकल गैस सेंटर / Agra Medical Gas Centre - Not Verified ❌
 
