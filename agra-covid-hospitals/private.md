@@ -106,6 +106,8 @@ description: 'Source: Hindustan Newspaper'
 
 📍 NH 2, Shastripuram, Bain Bazar, Bajrang Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/DAhQRTjJh4vcNuQb9)\)
 
+📱 9927086266
+
 🛏️ **Total Beds - 40 \| Oxygen Cylinders - 60 \| Oxygen Tanks - 0**
 
 \*\*\*\*
