@@ -14,5 +14,5 @@
 * [💊आगरा में COVID मेडिसिन / COVID Medicine in Agra](covid-covid-medicine-in-agra.md)
 * [🥗COVID मरीजों के लिए भोजन सेवाएं / Food Meals Services for COVID Patients](covid-food-meals-services-for-covid-patients.md)
 * [🧪 परीक्षण केंद्र और होम सैंपल कलेक्शन /  Testing Centres & Home Sample Collection](testing-centres-and-home-sample-collection.md)
-* [💉 आगरा टीकाकरण केंद्र / Agra Vaccination Centres](agra-vaccination-centres.md)
+* [💉 टीकाकरण केंद्र / Vaccination Centres](vaccination-centres.md)
 
