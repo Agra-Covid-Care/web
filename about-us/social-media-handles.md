@@ -8,5 +8,5 @@
 
 **Email** - [agracovidcare@gmail.com](mailto:agracovidcare@gmail.com)
 
-{% page-ref page="about-us.md" %}
+{% page-ref page="./" %}
 
