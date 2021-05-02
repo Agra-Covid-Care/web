@@ -15,4 +15,5 @@
 * [🥗COVID मरीजों के लिए भोजन सेवाएं / Food Meals Services for COVID Patients](covid-food-meals-services-for-covid-patients.md)
 * [🧪 परीक्षण केंद्र और होम सैंपल कलेक्शन /  Testing Centres & Home Sample Collection](testing-centres-and-home-sample-collection.md)
 * [💉 टीकाकरण केंद्र / Vaccination Centres](vaccination-centres.md)
+* [सोशल मीडिया हैंडल / Social Media Handles](social-media-handles.md)
 
