@@ -1,6 +1,8 @@
+---
+description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
+---
+
 # 💉 निजी टीकाकरण केंद्र / Private Vaccination Centres
-
-
 
 | Name of the Vaccination Site\* | Address | Area |
 | :--- | :--- | :--- |
