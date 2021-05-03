@@ -6,7 +6,7 @@
 
 **Telegram** - [http://bit.ly/Telegram-AgraCovidCare](http://bit.ly/Telegram-AgraCovidCare)
 
-**Email** - [agracovidcare@gmail.com](mailto:agracovidcare@gmail.com)
+**Email** - [team@agracovidcare.in](mailto:team@agracovidcare.in) \| [agracovidcare@gmail.com](mailto:agracovidcare@gmail.com)
 
 {% page-ref page="./" %}
 

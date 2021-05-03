@@ -2,7 +2,7 @@
 
 #### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
 
-Source: Office of District Magistrate Agra
+Source: Office of District Magistrate Agra 
 
 | \#**आगरा \#COVIDअपडेट / \#Agra \#COVIDUpdates** | कुल / **Total** | **On 2-May-2021** |
 | :--- | :--- | :--- |
