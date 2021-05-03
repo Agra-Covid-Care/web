@@ -28,7 +28,9 @@ We verify information periodically, however, due to the size of data and short o
 
 ### आप लोग समय और संसाधन क्यों लगा रहे हैं, जबकि इससे एक पैसा भी नहीं मिल रहा है? Why are you guys putting in time and resources to do this while not gaining a single penny from it?
 
-हम सहयोग, क्राउडसोर्सिंग, डेटा के लोकतंत्रीकरण और स्वयंसेवा की सच्ची भावना में विश्वास करते हैं। कृपया जान बचाने के लिए हमारा समर्थन करें! हमसे जुड़ें।
+हम सहयोग, क्राउडसोर्सिंग, डेटा के लोकतंत्रीकरण और स्वयंसेवा की सच्ची भावना में विश्वास करते हैं। कृपया जान बचाने के लिए हमारा समर्थन करें! हमसे जुड़ें। 
 
 We believe in the true spirit of collaboration, crowdsourcing, the democratization of data, and volunteering. Please support us to save lives! Join us.
+
+{% page-ref page="social-media.md" %}
 
