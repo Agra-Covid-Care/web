@@ -12,11 +12,15 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 {% page-ref page="oxygen-suppliers-in-agra.md" %}
 
+{% page-ref page="vaccination-centres/private-vaccination-centres.md" %}
+
 ## हेल्पलाइन / Helplines
 
 {% page-ref page="helpline-numbers/covid-helpline-numbers-agra.md" %}
 
 {% page-ref page="helpline-numbers/non-covid-home-tele-consultation.md" %}
+
+{% page-ref page="helpline-numbers/ambulance.md" %}
 
 ## COVID अस्पताल / COVID Hospitals
 
