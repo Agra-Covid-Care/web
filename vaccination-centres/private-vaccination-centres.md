@@ -4,7 +4,9 @@ description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
 
 # 💉 निजी टीकाकरण केंद्र / Private Vaccination Centres
 
-#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
+> ### **वर्तमान में केवल 45+ आयु समूह के लिए / Currently Only for 45+ Age Group**
+
+**Updated: 04-May-2021**
 
 | Name of the Vaccination Site\* | Address | Area |
 | :--- | :--- | :--- |
@@ -52,4 +54,6 @@ description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
 | Netra Bhawan Laser Sight I Pvt Ltd | 215 Manas Nagar Bodla Road Shahganj Agra | Shahganj |
 | Ram Kalyan Pathak Hospital | Taj Nagri Phase-2, 100 Feet Road, Agra | Shamshabad Road |
 | Sri Paramhansa Yogananda Dharmartha Netra Chikitsalaya | Sri Paramhansa Yogananda Dharmartha Netra Chikitsalaya D-45 Site-C Industrial Area Sikandra | Sikandra |
+
+#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
 

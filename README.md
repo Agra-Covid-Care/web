@@ -14,6 +14,8 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 {% page-ref page="vaccination-centres/private-vaccination-centres.md" %}
 
+{% page-ref page="./" %}
+
 ## हेल्पलाइन / Helplines
 
 {% page-ref page="helpline-numbers/covid-helpline-numbers-agra.md" %}
