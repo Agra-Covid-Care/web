@@ -36,3 +36,5 @@ Whatsapp Numbers for Home Delivery 👇
 
 ☎️ 0562 2600508
 
+#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
+

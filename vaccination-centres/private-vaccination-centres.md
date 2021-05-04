@@ -4,6 +4,8 @@ description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
 
 # 💉 निजी टीकाकरण केंद्र / Private Vaccination Centres
 
+#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
+
 | Name of the Vaccination Site\* | Address | Area |
 | :--- | :--- | :--- |
 | Javitri Devi Memorial Hospital | 51/10-J/19- West Arjun Nagar | Arjun Nagar |
