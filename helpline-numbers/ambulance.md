@@ -22,13 +22,17 @@ description: 'Source: Justdial.com'
 
 📱 9319111000 
 
+### Lifeline Agra Society
+
+📱 9205535504 \| 📱 90450730730
+
 ## सिकंदरा / Sikandra 
 
 ### प्रभा हॉस्पिटल / Prabha Hospital
 
 📱 9012516000
 
-### बघेल एम्बुलेंस सर्विसेज / Baghel Ambulance Services
+### बघेल एम्बुलेंस सर्विसेज / Bhagel Ambulance Services
 
 📱 7947281204
 
@@ -61,4 +65,22 @@ description: 'Source: Justdial.com'
 ### न्यू लाइफ एम्बुलेंस / New Life Ambulance
 
 📱 7947281592
+
+## Bhagwan Talkies
+
+### Panchmukhi Train And Air Ambulance Service 
+
+ 📱 [9667077437](tel:+919667077437) \| 📱  [9667077396](tel:+919667077396)
+
+## MG Road
+
+### King Air And Train Ambulance Services
+
+📱 7091359939 \| 📱 7091360310 \| 📱 7033699531
+
+## Bodla
+
+### Falcon Emergency Air Ambulance Services
+
+📱 9205909876 \| 📱 9205909876 \| v7368088573
 
