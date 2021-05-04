@@ -4,6 +4,8 @@ description: 'Source: https://www.cowin.gov.in/home'
 
 # 💉 सरकारी टीकाकरण केंद्र / Government Vaccination Centres
 
+**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+
 > ### **वर्तमान में केवल 45+ आयु समूह के लिए / Currently Only for 45+ Age Group**
 
 **Updated: 04-May-2021**

@@ -1,5 +1,7 @@
 # Contribute Verified Data
 
+**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+
 ## आगरा COVID अस्पताल डेटाबेस / Agra COVID Hospital Database
 
 [https://airtable.com/shrwzFGZCXKWNjJ0v](https://airtable.com/shrwzFGZCXKWNjJ0v)

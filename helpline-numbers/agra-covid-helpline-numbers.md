@@ -10,11 +10,13 @@ description: 'Source: हिंदुस्तान समाचार पत�
 
 WhatsApp Numbers for Home Delivery 👇
 
-📱 [7906018180](https://wa.me/917906018180) \| 📱 [8384838618](https://wa.me/918384838618) \| 📱 [9837280505](https://wa.me/919837280505) 
+📱 [7906018180](https://wa.me/917906018180) \| 📱 [9837280505](https://wa.me/919837280505) 
 
-📱 [8057501566](https://wa.me/918057501566) \| 📱 [9837327402](https://wa.me/919837327402) \| 📱 [9756208453](https://wa.me/919756208453) 
+📱 [8057501566](https://wa.me/918057501566) \| 📱 [9837327402](https://wa.me/919837327402) 
 
-📱 [9359932326](https://wa.me/919359932326) \| 📱 [7599356294](https://wa.me/917599356294) \| 📱 [9761828921](https://wa.me/919761828921) 
+📱 [9756208453](https://wa.me/919756208453) \| 📱 [9359932326](https://wa.me/919359932326) 
+
+📱 [7599356294](https://wa.me/917599356294) \| 📱 [9761828921](https://wa.me/919761828921) 
 
 📱 [9259111795](https://wa.me/919259111795)
 
@@ -26,9 +28,7 @@ WhatsApp Numbers for Home Delivery 👇
 
 ## Home Isolation - IMA
 
-📱 [8218510087](tel:8218510087)
-
-📱 [8909971071](tel:8909971071)
+📱 [8218510087](tel:8218510087) \| 📱 [8909971071](tel:8909971071)
 
 ## IMA - Secretary
 
@@ -42,5 +42,5 @@ WhatsApp Numbers for Home Delivery 👇
 
 
 
-#### Please join Telegram Group for regular updates - [https://t.me/agracovidemergency](https://t.me/agracovidemergency)
+#### Please join Telegram Group for regular updates - [https://bit.ly/Telegram-AgraCovidCare](https://bit.ly/Telegram-AgraCovidCare)
 

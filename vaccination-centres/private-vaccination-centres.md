@@ -4,6 +4,8 @@ description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
 
 # 💉 निजी टीकाकरण केंद्र / Private Vaccination Centres
 
+**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+
 > ### **वर्तमान में केवल 45+ आयु समूह के लिए / Currently Only for 45+ Age Group**
 
 **Updated: 04-May-2021**
