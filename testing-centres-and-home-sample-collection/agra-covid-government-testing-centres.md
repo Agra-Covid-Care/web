@@ -2,7 +2,7 @@
 
 | Center Name | Address | Contact No. | Test Type |
 | :--- | :--- | :--- | :--- |
-| 2/205, Old Vijayanagar Colony, | 2/205, Old Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282002, India, | 9897530425 | Antigen, RT-PCR |
+| 2/205, Old Vijayanagar Colony, | 2/205, Old Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282002, India, | [9897530425](tel:9897530425) | Antigen, RT-PCR |
 | A-10/37, Nagla Padi, | A-10/37, Nagla Padi, Agra, Uttar Pradesh 282005, India, | 9319894224 | Antigen, RT-PCR |
 | Achhnera Junction, Achhnera, | Achhnera Junction, Achhnera, Uttar Pradesh 283101, India, | 9410421342 | Antigen, RT-PCR |
 | Agra - Bharatpur Rd, Agra, | Agra - Bharatpur Rd, Agra, Uttar Pradesh 283105, India, | 9557789862 | Antigen, RT-PCR |
@@ -12,7 +12,7 @@
 | CHC FATEHABAD | Tahseel campus , Badshahi Bag , Fatehabad | 9897081609 | Antigen, RT-PCR |
 | CHC FATEHPUR SIKRI | RJ SH 45, Islam Ganj, Fatehpur Sikri, Uttar Pradesh 283110, India, | 9997047020 | Antigen, RT-PCR |
 | CHC JAGNER | SH 39, Jagner, Uttar Pradesh 283115, India, | 9936226993 | Antigen, RT-PCR |
-| CHC JAITPUR KALAN | Unnamed Road, Paharpura, Uttar Pradesh 283114, India, | "0562-0000000 | Antigen, RT-PCR |
+| CHC JAITPUR KALAN | Unnamed Road, Paharpura, Uttar Pradesh 283114, India, |  | Antigen, RT-PCR |
 | chc Khandauli, | SH 39, Khandauli, Uttar Pradesh 283126, India, | 9161277101 | Antigen, RT-PCR |
 | chc kheragarh | MDR 127W, Kheragarh, Uttar Pradesh 283121, India, | 9536462214 | Antigen, RT-PCR |
 | CHC Pinahat, | Pinahat, Uttar Pradesh 283123, India, |  | Antigen, RT-PCR |

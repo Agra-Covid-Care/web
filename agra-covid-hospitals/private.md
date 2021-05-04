@@ -30,9 +30,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 MG Road, opp. Agra, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://maps.google.com/?cid=3105087950028470801)\)
 
-☎️ 0562 4025100
+☎️ [0562 4025100](tel:05624025100)
 
-📱 7055750111 \| 📱 9389806564 \| 📱 9837094694 \| 9389806560
+📱 [7055750111](tel:7055750111) \| 📱 [9389806564](tel:9389806564) \| 📱 [9837094694](tel:9837094694) \| 📱 [9389806560](tel:9389806560)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 50 \| Oxygen Tanks - 2**
 
@@ -42,7 +42,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 MG Road, Rambagh, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/xd24hdZpRVdjGpHi8)\)
 
-📱 9837040871 \| 📱 9012516000
+📱 [9837040871](tel:9837040871) \| 📱 [9012516000](tel:9012516000)
 
 🛏️ **Total Beds - 52 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
 
@@ -52,9 +52,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Sanjay Palace, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/foVUqgKWCRZzVdpX9)\)
 
-☎️ 0562 4000666 \| ☎️ 0562 2853952 
+☎️ [0562 4000666](tel:05624000666) \| ☎️ [0562 2853952](tel:05622853952) 
 
-📱 9837054578 \| 📱 9927200976
+📱 [9837054578](tel:9837054578) \| 📱 [9927200976](tel:9927200976)
 
 🛏️ **Total Beds - 60 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -64,7 +64,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Near Guru ka Taal, Sikandra, Agra, Uttar Pradesh \([Open Map](https://g.page/SVIMSAGRA?share)\)
 
-📱 8122222222
+📱 [8122222222](tel:8122222222)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
 
@@ -74,7 +74,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Bypass Rd, Near People Honda showroom, Jawaharnagar Colony, Agra, Uttar Pradesh 282002 \([Open Map](https://goo.gl/maps/MFvuy6Hza6c28n8Y8)\)
 
-☎️ 0562 4050600
+☎️ [0562 4050600](tel:05624050600)
 
 🛏️ **Total Beds - 40 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -84,7 +84,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Mathura Rd, NH19, near Gurudwara Guru KaTaal, Sikandra, Agra, Uttar Pradesh \([Open Map](https://g.page/synergyplushospitalagra?share)\)
 
-☎️ 0562 2651110
+☎️ [0562 2651110](tel:05622651110)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -94,9 +94,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Agra Mathura Highway, NH19, near Sikandra, Agra, Uttar Pradesh \([Open Map](https://g.page/nayatiagra?share)\)
 
-☎️ 0562 7111562
+☎️ [0562 7111562](tel:05627111562)
 
-📱 7088565565 \| 📱 7055562562 \| 📱 9811233140
+📱 [7088565565](tel:7088565565) \| 📱 [7055562562](tel:7055562562) \| 📱 [9811233140](tel:9811233140)
 
 🛏️ **Total Beds - 52 \| Oxygen Cylinders - 50 \| Oxygen Tanks - 0**
 
@@ -106,7 +106,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 NH 2, Shastripuram, Bain Bazar, Bajrang Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/DAhQRTjJh4vcNuQb9)\)
 
-📱 9927086266
+📱 [9927086266](tel:9927086266)
 
 🛏️ **Total Beds - 40 \| Oxygen Cylinders - 60 \| Oxygen Tanks - 0**
 
@@ -116,9 +116,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 NH2, Artauni, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/an5XmMC9tAHwzgFv5)\)
 
-☎️ 0562 3066666
+☎️ [0562 3066666](tel:05623066666)
 
-📱 9917122244 \| 📱 9012514000 \| 📱 9012516000
+📱 [9917122244](tel:9917122244) \| 📱 [9012514000](tel:9012514000) \| 📱 [9012516000](tel:9012516000)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 150 \| Oxygen Tanks - 0**
 
@@ -128,9 +128,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Bypass Road, Maharishi Puram Colony, Agra, Uttar Pradesh \([Open Map](https://g.page/RainbowHospital?share)\)
 
-☎️ 0562 2600531 / 32 / 33 / 34 / 35 / 36 / 37 / 38 / 39 / 40
+☎️ [0562 2600531](tel:05622600531) / 32 / 33 / 34 / 35 / 36 / 37 / 38 / 39 / 40
 
-📱 8191022444
+📱 [8191022444](tel:8191022444)
 
 🛏️ **Total Beds - 30 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -140,7 +140,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Near Omaxe SRK Mall, Bypass Rd, NH2, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/zBgLiWwGcqB3ZgtD6)\)
 
-📱 7088003805 \| 📱 7088003804 \| 📱 8171131766
+📱 [7088003805](tel:7088003805) \| 📱 [7088003804](tel:7088003804) \| 📱 [8171131766](tel:8171131766)
 
 🛏️ **Total Beds - 45 \| Oxygen Cylinders - 100 \| Oxygen Tanks - 0**
 
@@ -150,7 +150,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/eVkW9uG5xHP75AiQ6)\)
 
-📱 9917001200 \| 📱 7088851666 \| 📱 9837244600
+📱 [9917001200](tel:9917001200) \| 📱 [7088851666](tel:7088851666) \| 📱 [9837244600](tel:9837244600)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 2**
 
@@ -160,7 +160,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://g.page/pushpanjalihospital?share)\)
 
-☎️ 0562 4024000
+☎️ [0562 4024000](tel:05624024000)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -170,7 +170,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Shreenathpuram, Mughal Road, Kamla Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/QmdBAWvtjw6aremf7)\)
 
-📱 7055381381 \| 📱 9837006916 \| 📱 6395261077
+📱 [7055381381](tel:7055381381) \| 📱 [9837006916](tel:9837006916) \| 📱 [6395261077](tel:6395261077)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 1**
 
@@ -180,9 +180,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Shaheed Nagar Crossing, Vibhav Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/At1RzHxFyYG46SD18)\)
 
-📱 9675403050 \| 📱 9927370674 \| 📱 9897147407
+📱 [9675403050](tel:9675403050) \| 📱 [9927370674](tel:9927370674) \| 📱 [9897147407](tel:9897147407)
 
-📱 9359934347 \| 📱 8476010137 \| 📱 9675403050 \| 📱 9719194666
+📱 [9359934347](tel:9359934347) \| 📱 [8476010137](tel:8476010137) \| 📱 [9675403050](tel:9675403050) \| 📱 [9719194666](tel:9719194666)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -192,7 +192,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Shamshabad Road, Near Amar Hotel, Vibhav Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/5EKw4hCyQzFwzr5o8)\)
 
-📱 9837023595 \| 📱 7611591272
+📱 [9837023595](tel:9837023595) \| 📱 [7611591272](tel:7611591272)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -202,9 +202,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Vibhav Nagar, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/VdPi7RMY63zV1ARj6)\)
 
-☎️ 0562 2230515 \| ☎️ 0562 2230515 \| ☎️ 0562 2330600
+☎️ [0562 2230515](tel:05622230515) \| ☎️ [0562 2230515](tel:05622230515) \| ☎️ [0562 2330600](tel:05622330600)
 
-📱 9837067747
+📱 [9837067747](tel:9837067747)
 
 🛏️ **Total Beds - 20 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 0**
 
@@ -214,9 +214,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Firozabad Road, Rambagh, Trans Yamuna Colony, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/7zJoYzbGwyywXFi58)\)
 
-☎️ 0562 4001062 
+☎️ [0562 4001062 ](tel:05624001062)
 
-📱 9897240007 \| 📱 8439867002
+📱 [9897240007](tel:9897240007) \| 📱 [8439867002](tel:8439867002)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -228,7 +228,7 @@ description: 'Source: Hindustan Newspaper'
 
 ☎️ 0562 4057760 
 
-📱 9412257292 \| 📱 9634210100
+📱 [9412257292](tel:9412257292) \| 📱 [9634210100](tel:9634210100)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 150 \| Oxygen Tanks - 0**
 
@@ -238,7 +238,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 NH19, Nagla Rambal, T.Y.C. Phase-II, Kuberpur, Uttar Pradesh \([Open Map](https://goo.gl/maps/R1XjJY4KApi9nRMi7)\)
 
-📱 9759215602
+📱 [9759215602](tel:9759215602)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 75 \| Oxygen Tanks - 0**
 
@@ -248,7 +248,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Sector 1, Awas Vikas Nagar Colony, Bodla, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/xEqUkp5QjA2Zz8GZ7)\)
 
-📱 9761758555 \| 📱 9897029148
+📱 [9761758555](tel:9761758555) \| 📱 [9897029148](tel:9897029148)
 
 🛏️ **Total Beds - 60 \| Oxygen Cylinders - 120 \| Oxygen Tanks - 0**
 
@@ -258,7 +258,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Barauli Ahir, Shamshabad Road,Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/gvAh2wPW2EJxJskC7)\)
 
-📱 9837155566
+📱 [9837155566](tel:9837155566)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -268,9 +268,9 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Indra Puri, New Agra Colony, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/5TxNdoN7jvBpo2L97)\)
 
-☎️ 0562 4000045 
+☎️ [0562 4000045](tel:05624000045)
 
-📱 9837082020 \| 📱 9411261011
+📱 [9837082020](tel:9837082020) \| 📱 [9411261011](tel:9411261011)
 
 🛏️ **Total Beds - 40 \| Oxygen Cylinders - 100 \| Oxygen Tanks - 0**
 
@@ -280,7 +280,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Fatehabad Road, Agra, Uttar Pradesh
 
-📱 9675403050 \| 📱 9837242255
+📱 [9675403050](tel:9675403050) \| 📱 [9837242255](tel:9837242255)
 
 🛏️ **Total Beds - 30 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 0**
 
@@ -290,7 +290,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 B Block, Khandari, Agra, Uttar Pradesh
 
-📱 7500877770 \| 📱 7055467776 \| 📱 7500977770
+📱 [7500877770](tel:7500877770) \| 📱 [7055467776](tel:7055467776) \| 📱 [7500977770](tel:7500977770)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
@@ -300,7 +300,7 @@ description: 'Source: Hindustan Newspaper'
 
 📍 Bodla Rd, Opp. Torrent Power, Freinds Colony, Bhogipura, Shahganj, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/FsmNEEiNe64utDSB6)\)
 
-📱 9997444600
+📱 [9997444600](tel:9997444600)
 
 🛏️ **Total Beds - 60 \| Oxygen Cylinders - 90 \| Oxygen Tanks - 0**
 

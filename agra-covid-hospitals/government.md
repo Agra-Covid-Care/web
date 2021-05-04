@@ -12,13 +12,13 @@ description: 'Agra Covid Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 
 📍 MG Road, near Raja Ki Mandi, Moti Katra, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/SpfwRwvjSFYZ6fXF8)\)
 
-☎️ 0562 2260353
+☎️ [0562 2260353](tel:05622260353)
 
-📱 8791174389
+📱 [8791174389](tel:8791174389)
 
-📱 8865085985
+📱 [8865085985](tel:8865085985)
 
-🛏️ Total Beds - 315
+**🛏️ Total Beds - 315**
 
 
 
@@ -26,11 +26,11 @@ description: 'Agra Covid Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 
 📍 MG Road, Chhipitola, Sai ki takiya Crossing, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/ScCcTQ7XJyx1asEY8)\)
 
-☎️ 0562 2363043
+☎️ [0562 2363043](tel:05622363043)
 
-📱 8791913377
+📱 [8791913377](tel:8791913377)
 
-🛏️ Total Beds - 78
+**🛏️ Total Beds - 78**
 
 {% page-ref page="private.md" %}
 
