@@ -2,6 +2,12 @@
 
 **Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
 
+## फेसबुक / ट्विटर पर एक सत्यापित लीड मिला? / Found a Verified Lead on Facebook / Twitter?
+
+Please tag us @AgraCovidCare  
+Facebook: [http://fb.me/AgraCovidCare](http://fb.me/AgraCovidCare)  
+Twitter - [https://twitter.com/AgraCovidCare](https://twitter.com/AgraCovidCare)
+
 ## आगरा COVID अस्पताल डेटाबेस / Agra COVID Hospital Database
 
 [https://airtable.com/shrwzFGZCXKWNjJ0v](https://airtable.com/shrwzFGZCXKWNjJ0v)
