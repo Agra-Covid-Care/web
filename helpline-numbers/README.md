@@ -1,8 +1,8 @@
 # 🆘 हेल्पलाइन नंबर / Helpline Numbers
 
-{% page-ref page="covid-helpline-numbers-agra.md" %}
+{% page-ref page="agra-covid-helpline-numbers.md" %}
 
-{% page-ref page="ambulance.md" %}
+{% page-ref page="ambulance-services-in-agra.md" %}
 
 {% page-ref page="non-covid-home-tele-consultation.md" %}
 

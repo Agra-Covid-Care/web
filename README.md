@@ -14,15 +14,17 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 {% page-ref page="vaccination-centres/private-vaccination-centres.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="testing-centres-and-home-sample-collection/agra-private-covid-testing-centres-and-home-sample-collection.md" %}
+
+
 
 ## हेल्पलाइन / Helplines
 
-{% page-ref page="helpline-numbers/covid-helpline-numbers-agra.md" %}
+{% page-ref page="helpline-numbers/agra-covid-helpline-numbers.md" %}
 
 {% page-ref page="helpline-numbers/non-covid-home-tele-consultation.md" %}
 
-{% page-ref page="helpline-numbers/ambulance.md" %}
+{% page-ref page="helpline-numbers/ambulance-services-in-agra.md" %}
 
 ## COVID अस्पताल / COVID Hospitals
 
