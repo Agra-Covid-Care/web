@@ -24,7 +24,7 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 ✉️ advancegasesagra@gmail.com
 
-📱 9897487555 \(विकास अग्रवाल / Vikas Agarwal\) ✅
+📱 [9897487555](tel:9897487555) \(विकास अग्रवाल / Vikas Agarwal\) ✅
 
 📱 9897052119 \(आकाश / Akash\) ✅
 
