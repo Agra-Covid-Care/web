@@ -34,6 +34,10 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 📱 9897652861 \(मंजीत / Manjeet\) ✅
 
+### सेंट पीटर्स कॉलेज / St. Peters College
+
+📍 Wazirpura Rd, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002 \([Open Map](https://goo.gl/maps/w2VnfJwYqpxa1Ry28)\)
+
 ## आगरा मेडिकल गैस सेंटर / Agra Medical Gas Centre - Not Verified ❌
 
 📍 L-3-111, Shaheed Nagar Rd, Sewala Jat, Shaheed Nagar, Agra, Uttar Pradesh \([Open Map](https://www.google.co.in/maps/place/Agra+Medical+Gas+Centre/@27.1768054,77.9380337,12z/data=!3m1!4b1!4m10!1m3!11m2!2sA8P6Soqa8xzAFNfgIsA_dLwpDIRVJA!3e3!3m5!1s0x397477261ece80ad:0x5470797bad23f47b!8m2!3d27.1766701!4d78.0080745!15sCgEqkgEabWVkaWNhbF9lcXVpcG1lbnRfc3VwcGxpZXI)\)
