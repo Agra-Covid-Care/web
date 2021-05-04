@@ -4,6 +4,8 @@
 
 {% page-ref page="social-media.md" %}
 
+{% page-ref page="contribute-verified-data.md" %}
+
 ### क्या आप आधिकारिक हैं? / Are you official?
 
 नहीं / No.
