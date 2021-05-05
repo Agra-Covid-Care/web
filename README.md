@@ -6,6 +6,8 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 #### Please join Telegram Group for regular updates - [https://bit.ly/Telegram-AgraCovidCare](https://bit.ly/Telegram-AgraCovidCare)
 
+**COVID Bed उपलब्धता के लिए रियल टाइम डैशबोर्ड / Real Time dashboard for COVID bed availability -** [**http://upegov.in/coronabeds**](http://upegov.in/coronabeds)\*\*\*\*
+
 {% page-ref page="about-us/" %}
 
 {% page-ref page="agra-covid-daily-updates.md" %}

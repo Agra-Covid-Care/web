@@ -4,9 +4,9 @@ description: 'Source: Hindustan Newspaper'
 
 # निजी COVID अस्पताल / Private COVID Hospitals
 
-**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** 
+**COVID Bed उपलब्धता के लिए रियल टाइम डैशबोर्ड / Real Time dashboard for COVID bed availability -** [**http://upegov.in/coronabeds**](http://upegov.in/coronabeds)\*\*\*\*
 
-[https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
+**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
 ## क्षेत्रवार अस्पताल / Area wise Hospitals
 

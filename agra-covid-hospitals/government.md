@@ -4,9 +4,9 @@ description: 'Agra Covid Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 
 # सरकारी COVID अस्पताल / Government Agra Hospitals
 
-**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** 
+**COVID Bed उपलब्धता के लिए रियल टाइम डैशबोर्ड / Real Time dashboard for COVID bed availability -** [**http://upegov.in/coronabeds**](http://upegov.in/coronabeds)\*\*\*\*
 
-[https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
+**Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
 ### एसएन मेडिकल कॉलेज आगरा, मोती कटरा / S.N Medical College Agra, Moti Katra \(L3\)
 
