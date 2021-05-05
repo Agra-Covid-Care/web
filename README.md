@@ -16,7 +16,7 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 {% page-ref page="vaccination-centres/" %}
 
-{% page-ref page="covid-covid-medicine-in-agra.md" %}
+{% page-ref page="covid-covid-medicine-in-agra/" %}
 
 {% page-ref page="covid-food-meals-services-for-covid-patients-and-families.md" %}
 

@@ -9,6 +9,8 @@
 
 Source: [https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms](https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms)
 
+{% page-ref page="agra-jan-aushadhi-kendra.md" %}
+
 ## Fountain Market / फव्वारा बाजार
 
 ### सन रयस फमर / SUN RAYS PHARMA
