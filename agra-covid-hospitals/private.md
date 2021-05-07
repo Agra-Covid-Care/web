@@ -1,5 +1,5 @@
 ---
-description: 'Source: Hindustan Newspaper'
+description: 'Source: upegov.in/coronabeds'
 ---
 
 # निजी COVID अस्पताल / Private COVID Hospitals
@@ -8,14 +8,13 @@ description: 'Source: Hindustan Newspaper'
 
 **Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
-## क्षेत्रवार अस्पताल / Area wise Hospitals
+## क्षेत्रानुसार अस्पताल / Area wise Hospitals
 
-* **बाईपास रोड / Bypass Road - 8**
+* **बाईपास रोड / Bypass Road - 7**
 * **ट्रांस यमुना / Trans Yamuna - 3**
 * **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
 * **एमजी रोड / MG Road - 2**
-* **दिल्ली गेट / Delhi Gate - 2**
-* **संजय पैलेस / Sanjay Palace - 1**
+* **दिल्ली गेट / Delhi Gate - 1**
 * **कमला नगर / Kamla Nagar - 1**
 * **बोदला / Bodla - 1**
 * **बरौली अहीर / Barauli Ahir -1**
@@ -23,6 +22,8 @@ description: 'Source: Hindustan Newspaper'
 * **फतेहाबाद रोड / Fatehabad Road - 1**
 * **खंदारी / Khandari - 1**
 * **शाहगंज / Shahganj -1**
+* **भगवान टॉकीज / Bhagwan Talkies - 1**
+* **प्रताप पुरा / Pratap Pura - 1**
 
 ## एमजी रोड / MG Road
 
@@ -46,17 +47,15 @@ description: 'Source: Hindustan Newspaper'
 
 🛏️ **Total Beds - 52 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
 
-## संजय पैलेस / Sanjay Palace
+## साईं का ताकिया / Sai Ka Takiya
 
-### जी. जी. अस्पताल / G.G. Hospital
+### एसआर अस्पताल / S R HOSPITAL
 
-📍 Sanjay Palace, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/foVUqgKWCRZzVdpX9)\)
+📍 Lauries Complex, Namner Rd, Near Sai Ka Takiya Crossing, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/vkHJc1DAEs1eytBb8)\)
 
-☎️ [0562 4000666](tel:05624000666) \| ☎️ [0562 2853952](tel:05622853952) 
+☎️ [0562 4301222](tel:05624301222) \| 📱 [9359901993](tel:9359901993)
 
-📱 [9837054578](tel:9837054578) \| 📱 [9927200976](tel:9927200976)
-
-🛏️ **Total Beds - 60 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
+🛏️ **Total Beds - 50**
 
 ## बाईपास रोड / Bypass Road
 
@@ -77,16 +76,6 @@ description: 'Source: Hindustan Newspaper'
 ☎️ [0562 4050600](tel:05624050600)
 
 🛏️ **Total Beds - 40 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
-
-\*\*\*\*
-
-### सिनर्जी प्लस हॉस्पिटल / Synergy Plus Hospital
-
-📍 Mathura Rd, NH19, near Gurudwara Guru KaTaal, Sikandra, Agra, Uttar Pradesh \([Open Map](https://g.page/synergyplushospitalagra?share)\)
-
-☎️ [0562 2651110](tel:05622651110)
-
-🛏️ **Total Beds - 80 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 \*\*\*\*
 
@@ -153,16 +142,6 @@ description: 'Source: Hindustan Newspaper'
 📱 [9917001200](tel:9917001200) \| 📱 [7088851666](tel:7088851666) \| 📱 [9837244600](tel:9837244600)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 2**
-
-\*\*\*\*
-
-### पुष्पांजलि हॉस्पिटल **/** Pushpanjali Hospital
-
-📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://g.page/pushpanjalihospital?share)\)
-
-☎️ [0562 4024000](tel:05624024000)
-
-🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 ## कमला नगर / Kamla Nagar
 
@@ -276,13 +255,15 @@ description: 'Source: Hindustan Newspaper'
 
 ## फतेहाबाद रोड / **Fatehabad Road**
 
-### उपाध्याय अस्पताल \(यूनिट 2\) / Upadhyay Hospital **\(Unit 2\)**
+### पाठक हॉस्पिटल / Pathak Hospital
 
-📍 Fatehabad Road, Agra, Uttar Pradesh
+📍 100 Feet Road, Taj Nagri Phase 2, Tajganj, Basai, Agra Uttar Pradesh
 
-📱 [9675403050](tel:9675403050) \| 📱 [9837242255](tel:9837242255)
+☎️ [0562 2970883](tel:05622970883) \| ☎️ [0562 2970884 ](tel:05622970884)
 
-🛏️ **Total Beds - 30 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 0**
+📱 [9412257790](tel:9412257790)
+
+🛏️ **Total Beds - 35**
 
 ## खंदारी / Khandari
 
@@ -304,7 +285,25 @@ description: 'Source: Hindustan Newspaper'
 
 🛏️ **Total Beds - 60 \| Oxygen Cylinders - 90 \| Oxygen Tanks - 0**
 
-\*\*\*\*
+## भगवान टॉकीज / **Bhagwan Talkies** 
+
+### जय हॉस्पिटल **/** Jai Hospital
+
+📍 Bypass Rd, near Shree Talkies, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/LDgNuCPrkB7VyUD18)\)
+
+☎️ [0562 4043000](tel:05624043000)
+
+🛏️ **Total Beds - 20**
+
+## प्रताप पुरा / **Pratap Pura**
+
+### सफायर हॉस्पिटल / S**apphire** Hospital
+
+📍 Ajmer Rd, Pratap Pura, Rakabganj, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/URyjg745yNus9X259)\)
+
+📱 [9359925708](tel:9359925708) \| 📱 [7830000781](tel:7830000781)
+
+🛏️ **Total Beds - 20**
 
 **Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
 

@@ -9,6 +9,7 @@
 * [🏥 आगरा COVID अस्पताल / Agra COVID Hospitals](agra-covid-hospitals/README.md)
   * [सरकारी COVID अस्पताल / Government Agra Hospitals](agra-covid-hospitals/government.md)
   * [निजी COVID अस्पताल / Private COVID Hospitals](agra-covid-hospitals/private.md)
+  * [संदिग्ध COVID मामलों के लिए अस्पताल / Hospitals for Suspected COVID Cases](agra-covid-hospitals/covid-hospitals-for-suspected-covid-cases.md)
 * [🆘 हेल्पलाइन नंबर / Helpline Numbers](helpline-numbers/README.md)
   * [आगरा COVID हेल्पलाइन नंबर / Agra COVID Helpline Numbers](helpline-numbers/agra-covid-helpline-numbers.md)
   * [Non COVID होम टेलीफोन परामर्श / Home Tele Consultation](helpline-numbers/non-covid-home-tele-consultation.md)
