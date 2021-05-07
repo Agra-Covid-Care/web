@@ -10,7 +10,7 @@ description: 'Source: upegov.in/coronabeds'
 
 ## क्षेत्रानुसार अस्पताल / Area wise Hospitals
 
-* **एमजी रोड / MG Road - 2**
+* **एमजी रोड / MG Road - 1**
 * **साईं का ताकिया / Sai Ka Takiya - 1**
 * **बाईपास रोड / Bypass Road - 7**
 * **दिल्ली गेट / Delhi Gate - 1**
@@ -38,16 +38,6 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 50 \| Oxygen Tanks - 2**
 
-\*\*\*\*
-
-### प्रभा अस्पताल **/** Prabha Hospital
-
-📍 MG Road, Rambagh, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/xd24hdZpRVdjGpHi8)\)
-
-📱 [9837040871](tel:9837040871) \| 📱 [9012516000](tel:9012516000)
-
-🛏️ **Total Beds - 52 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
-
 ## साईं का ताकिया / Sai Ka Takiya
 
 ### एसआर अस्पताल / S R HOSPITAL
@@ -67,16 +57,6 @@ description: 'Source: upegov.in/coronabeds'
 📱 [8122222222](tel:8122222222)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
-
-\*\*\*\*
-
-### हेरिटेज हॉस्पिटल **/** Heritage Hospital
-
-📍 Bypass Rd, Near People Honda showroom, Jawaharnagar Colony, Agra, Uttar Pradesh 282002 \([Open Map](https://goo.gl/maps/MFvuy6Hza6c28n8Y8)\)
-
-☎️ [0562 4050600](tel:05624050600)
-
-🛏️ **Total Beds - 40 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 \*\*\*\*
 
@@ -133,6 +113,14 @@ description: 'Source: upegov.in/coronabeds'
 📱 [7088003805](tel:7088003805) \| 📱 [7088003804](tel:7088003804) \| 📱 [8171131766](tel:8171131766)
 
 🛏️ **Total Beds - 45 \| Oxygen Cylinders - 100 \| Oxygen Tanks - 0**
+
+\*\*\*\*
+
+### प्रभा अस्पताल **/** Prabha Hospital
+
+📍 Highway Rd, Shastripuram, Sikandra, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/zwkJZ6PR5sLeouJd7)\)
+
+🛏️ **Total Beds - 70**
 
 ## दिल्ली गेट / Delhi Gate
 

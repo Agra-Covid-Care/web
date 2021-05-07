@@ -1,5 +1,5 @@
 ---
-description: 'Agra Covid Hospitals on Google Maps - https://bit.ly/agra-covid-hostipals-map'
+description: 'Agra COVID Hospitals on Google Maps - https://bit.ly/agra-covid-hostipals-map'
 ---
 
 # सरकारी COVID अस्पताल / Government Agra Hospitals
@@ -31,6 +31,32 @@ description: 'Agra Covid Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 📱 [8791913377](tel:8791913377)
 
 **🛏️ Total Beds - 78**
+
+\*\*\*\*
+
+### सीएचसी आगरा / **CHC Agra**
+
+📍 Paliwal Park Rd, near Dr. B R Ambedkar university, Jeoni Mandi, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/U5USztQzKXF5A4918)\)
+
+**🛏️ Total Beds - 60**
+
+\*\*\*\*
+
+### सीएचसी बाह / **CHC Bah**
+
+📍 Agra, SH-62, Amota Road, Bah, Bah, Uttar Pradesh \([Open Map](https://goo.gl/maps/rTJpw6oN1hahuS148)\)
+
+📱 [8392853568](tel:8392853568)
+
+**🛏️ Total Beds - 30**
+
+\*\*\*\*
+
+### सीएचसी बरौली अहीर **/ CHC Baroli Ahir**
+
+📍 MDR 113W, Baroli Ahir, Agra, Uttar Pradesh **\(**[Open Map](https://goo.gl/maps/5NjvpSZKkzGhzVr79)**\)**
+
+\*\*\*\*
 
 {% page-ref page="private.md" %}
 

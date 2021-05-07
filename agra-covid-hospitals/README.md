@@ -6,6 +6,8 @@
 
 {% page-ref page="private.md" %}
 
+{% page-ref page="covid-hospitals-for-suspected-covid-cases.md" %}
+
 
 
 #### Please join Telegram Group for regular updates - [https://bit.ly/Telegram-AgraCovidCare](https://bit.ly/Telegram-AgraCovidCare)
