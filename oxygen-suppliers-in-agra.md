@@ -20,7 +20,7 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 ## एडवांस गैस / Advance Gases ✅
 
-📍 C-5, Upsidc Industrial Area Site C, Sikandra, Agra \([Open Map](https://www.google.com/maps/place/Mohammadpur,+Uttar+Pradesh/@27.2037924,77.9092031,12.96z/data=!4m5!3m4!1s0x397387ff26f1a195:0x2830e5038de989e2!8m2!3d27.2145617!4d77.9249919) - Area Location\)
+📍 C-5, Upsidc Industrial Area Site C, Sikandra, Agra \([Open Map](https://goo.gl/maps/mL2iZTMHE962a5cT7)\)
 
 ✉️ advancegasesagra@gmail.com
 
