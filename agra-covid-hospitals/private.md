@@ -1,5 +1,5 @@
 ---
-description: 'Source: upegov.in/coronabeds'
+description: 'Source: Hindustan Newspaper'
 ---
 
 # निजी COVID अस्पताल / Private COVID Hospitals
@@ -8,23 +8,21 @@ description: 'Source: upegov.in/coronabeds'
 
 **Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
-## क्षेत्रानुसार अस्पताल / Area wise Hospitals
+## क्षेत्रवार अस्पताल / Area wise Hospitals
 
-* **एमजी रोड / MG Road - 1**
-* **साईं का ताकिया / Sai Ka Takiya - 1**
-* **बाईपास रोड / Bypass Road - 7**
-* **दिल्ली गेट / Delhi Gate - 1**
-* **कमला नगर / Kamla Nagar - 1**
-* **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
+* **बाईपास रोड / Bypass Road - 8**
 * **ट्रांस यमुना / Trans Yamuna - 3**
+* **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
+* **एमजी रोड / MG Road - 2**
+* **दिल्ली गेट / Delhi Gate - 2**
+* **संजय पैलेस / Sanjay Palace - 1**
+* **कमला नगर / Kamla Nagar - 1**
 * **बोदला / Bodla - 1**
 * **बरौली अहीर / Barauli Ahir -1**
 * **न्यू आगरा / New Agra -1**
 * **फतेहाबाद रोड / Fatehabad Road - 1**
 * **खंदारी / Khandari - 1**
 * **शाहगंज / Shahganj -1**
-* **भगवान टॉकीज / Bhagwan Talkies - 1**
-* **प्रताप पुरा / Pratap Pura - 1**
 
 ## एमजी रोड / MG Road
 
@@ -38,15 +36,27 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 50 \| Oxygen Tanks - 2**
 
-## साईं का ताकिया / Sai Ka Takiya
+\*\*\*\*
 
-### एसआर अस्पताल / S R HOSPITAL
+### प्रभा अस्पताल **/** Prabha Hospital
 
-📍 Lauries Complex, Namner Rd, Near Sai Ka Takiya Crossing, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/vkHJc1DAEs1eytBb8)\)
+📍 MG Road, Rambagh, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/xd24hdZpRVdjGpHi8)\)
 
-☎️ [0562 4301222](tel:05624301222) \| 📱 [9359901993](tel:9359901993)
+📱 [9837040871](tel:9837040871) \| 📱 [9012516000](tel:9012516000)
 
-🛏️ **Total Beds - 50**
+🛏️ **Total Beds - 52 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
+
+## संजय पैलेस / Sanjay Palace
+
+### जी. जी. अस्पताल / G.G. Hospital
+
+📍 Sanjay Palace, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/foVUqgKWCRZzVdpX9)\)
+
+☎️ [0562 4000666](tel:05624000666) \| ☎️ [0562 2853952](tel:05622853952) 
+
+📱 [9837054578](tel:9837054578) \| 📱 [9927200976](tel:9927200976)
+
+🛏️ **Total Beds - 60 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 ## बाईपास रोड / Bypass Road
 
@@ -57,6 +67,26 @@ description: 'Source: upegov.in/coronabeds'
 📱 [8122222222](tel:8122222222)
 
 🛏️ **Total Beds - 80 \| Oxygen Cylinders - 300 \| Oxygen Tanks - 0**
+
+\*\*\*\*
+
+### हेरिटेज हॉस्पिटल **/** Heritage Hospital
+
+📍 Bypass Rd, Near People Honda showroom, Jawaharnagar Colony, Agra, Uttar Pradesh 282002 \([Open Map](https://goo.gl/maps/MFvuy6Hza6c28n8Y8)\)
+
+☎️ [0562 4050600](tel:05624050600)
+
+🛏️ **Total Beds - 40 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
+
+\*\*\*\*
+
+### सिनर्जी प्लस हॉस्पिटल / Synergy Plus Hospital
+
+📍 Mathura Rd, NH19, near Gurudwara Guru KaTaal, Sikandra, Agra, Uttar Pradesh \([Open Map](https://g.page/synergyplushospitalagra?share)\)
+
+☎️ [0562 2651110](tel:05622651110)
+
+🛏️ **Total Beds - 80 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 \*\*\*\*
 
@@ -114,14 +144,6 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 45 \| Oxygen Cylinders - 100 \| Oxygen Tanks - 0**
 
-\*\*\*\*
-
-### प्रभा अस्पताल **/** Prabha Hospital
-
-📍 Highway Rd, Shastripuram, Sikandra, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/zwkJZ6PR5sLeouJd7)\)
-
-🛏️ **Total Beds - 70**
-
 ## दिल्ली गेट / Delhi Gate
 
 ### रवि अस्पताल **/** Ravi Hospital 
@@ -131,6 +153,16 @@ description: 'Source: upegov.in/coronabeds'
 📱 [9917001200](tel:9917001200) \| 📱 [7088851666](tel:7088851666) \| 📱 [9837244600](tel:9837244600)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 2**
+
+\*\*\*\*
+
+### पुष्पांजलि हॉस्पिटल **/** Pushpanjali Hospital
+
+📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://g.page/pushpanjalihospital?share)\)
+
+☎️ [0562 4024000](tel:05624024000)
+
+🛏️ **Total Beds - 100 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 1**
 
 ## कमला नगर / Kamla Nagar
 
@@ -244,15 +276,13 @@ description: 'Source: upegov.in/coronabeds'
 
 ## फतेहाबाद रोड / **Fatehabad Road**
 
-### पाठक हॉस्पिटल / Pathak Hospital
+### उपाध्याय अस्पताल \(यूनिट 2\) / Upadhyay Hospital **\(Unit 2\)**
 
-📍 100 Feet Road, Taj Nagri Phase 2, Tajganj, Basai, Agra Uttar Pradesh
+📍 Fatehabad Road, Agra, Uttar Pradesh
 
-☎️ [0562 2970883](tel:05622970883) \| ☎️ [0562 2970884 ](tel:05622970884)
+📱 [9675403050](tel:9675403050) \| 📱 [9837242255](tel:9837242255)
 
-📱 [9412257790](tel:9412257790)
-
-🛏️ **Total Beds - 35**
+🛏️ **Total Beds - 30 \| Oxygen Cylinders - 15 \| Oxygen Tanks - 0**
 
 ## खंदारी / Khandari
 
@@ -274,25 +304,7 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 60 \| Oxygen Cylinders - 90 \| Oxygen Tanks - 0**
 
-## भगवान टॉकीज / **Bhagwan Talkies** 
-
-### जय हॉस्पिटल **/** Jai Hospital
-
-📍 Bypass Rd, near Shree Talkies, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/LDgNuCPrkB7VyUD18)\)
-
-☎️ [0562 4043000](tel:05624043000)
-
-🛏️ **Total Beds - 20**
-
-## प्रताप पुरा / **Pratap Pura**
-
-### सफायर हॉस्पिटल / S**apphire** Hospital
-
-📍 Ajmer Rd, Pratap Pura, Rakabganj, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/URyjg745yNus9X259)\)
-
-📱 [9359925708](tel:9359925708) \| 📱 [7830000781](tel:7830000781)
-
-🛏️ **Total Beds - 20**
+\*\*\*\*
 
 **Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
 

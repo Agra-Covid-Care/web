@@ -8,7 +8,7 @@ description: 'Agra COVID Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 
 **Google Maps पर आगरा COVID अस्पताल / Agra COVID Hospitals on Google Maps** [https://bit.ly/agra-covid-hostipals-map](https://bit.ly/agra-covid-hostipals-map)
 
-### एसएन मेडिकल कॉलेज आगरा, मोती कटरा / S.N Medical College Agra, Moti Katra \(L3\)
+### एसएन मेडिकल कॉलेज आगरा, मोती कटरा / S.N Medical College Agra, Moti Katra
 
 📍 MG Road, near Raja Ki Mandi, Moti Katra, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/SpfwRwvjSFYZ6fXF8)\)
 
@@ -22,7 +22,7 @@ description: 'Agra COVID Hospitals on Google Maps - https://bit.ly/agra-covid-ho
 
 
 
-### जिला अस्पताल आगरा / District Hospital Agra \(L2\)
+### जिला अस्पताल आगरा / District Hospital Agra
 
 📍 MG Road, Chhipitola, Sai ki takiya Crossing, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/ScCcTQ7XJyx1asEY8)\)
 
