@@ -10,12 +10,13 @@ description: 'Source: upegov.in/coronabeds'
 
 ## क्षेत्रानुसार अस्पताल / Area wise Hospitals
 
-* **बाईपास रोड / Bypass Road - 7**
-* **ट्रांस यमुना / Trans Yamuna - 3**
-* **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
 * **एमजी रोड / MG Road - 2**
+* **साईं का ताकिया / Sai Ka Takiya - 1**
+* **बाईपास रोड / Bypass Road - 7**
 * **दिल्ली गेट / Delhi Gate - 1**
 * **कमला नगर / Kamla Nagar - 1**
+* **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
+* **ट्रांस यमुना / Trans Yamuna - 3**
 * **बोदला / Bodla - 1**
 * **बरौली अहीर / Barauli Ahir -1**
 * **न्यू आगरा / New Agra -1**
