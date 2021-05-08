@@ -1,15 +1,8 @@
 # 💊आगरा में COVID मेडिसिन / COVID Medicine in Agra
 
-| Company | Brand | Remdesivir Price |
-| :--- | :--- | :--- |
-| Zydus Cadila | Remdac | ₹2800 |
-| Hetero Labs | Covifor | ₹5000-₹6000 |
-| Dr Reddy | Redyx | ₹5400 |
-| Cipla | Cipremi | ₹4000 |
+**महत्वपूर्ण जानकारी: रेमेड्सवियर से संबंधित मामलों के लिए कृपया ADM CITY, ड्रग इंस्पेक्टर - 9412733083 या DM आगरा - 9454417509 पर संपर्क करें या अपने मरीज़ों को अस्पताल में भर्ती करवाएं।**
 
-Source: [https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms](https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms)
-
-{% page-ref page="agra-jan-aushadhi-kendra.md" %}
+**Important Information: For Remdesivir related cases please contact ADM CITY, Drug Inspector - 9412733083 or DM Agra - 9454417509 or get the referral from the hospital your patients admitted in.**
 
 ## Fountain Market / फव्वारा बाजार
 
@@ -35,7 +28,18 @@ Source: [https://www.businessinsider.in/science/health/news/these-are-the-compan
 
 📱 [9359567476](tel:9359567476) \| 📱 [7060081239](tel:7060081239)
 
+{% page-ref page="agra-jan-aushadhi-kendra.md" %}
 
+
+
+| Company | Brand | Remdesivir Price |
+| :--- | :--- | :--- |
+| Zydus Cadila | Remdac | ₹2800 |
+| Hetero Labs | Covifor | ₹5000-₹6000 |
+| Dr Reddy | Redyx | ₹5400 |
+| Cipla | Cipremi | ₹4000 |
+
+Source: [https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms](https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms)
 
 **Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
 
