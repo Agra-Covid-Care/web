@@ -32,14 +32,5 @@
 
 
 
-| Company | Brand | Remdesivir Price |
-| :--- | :--- | :--- |
-| Zydus Cadila | Remdac | ₹2800 |
-| Hetero Labs | Covifor | ₹5000-₹6000 |
-| Dr Reddy | Redyx | ₹5400 |
-| Cipla | Cipremi | ₹4000 |
-
-Source: [https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms](https://www.businessinsider.in/science/health/news/these-are-the-companies-that-are-making-remdesivir-in-india/articleshow/78030739.cms)
-
 **Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
 
