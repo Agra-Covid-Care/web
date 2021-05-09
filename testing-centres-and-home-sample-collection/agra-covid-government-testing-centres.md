@@ -1,6 +1,6 @@
 # 🧪 सरकारी परीक्षण केंद्र /  Government Testing Centres
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 | Center Name | Address | Contact No. | Test Type |
 | :--- | :--- | :--- | :--- |

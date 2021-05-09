@@ -294,5 +294,5 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 20**
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 

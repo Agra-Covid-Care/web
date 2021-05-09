@@ -1,6 +1,6 @@
 # 🧪 निजी परीक्षण केंद्र और होम सैंपल कलेक्शन /  Private Testing Centres & Home Sample Collection
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 ## Pathkind
 

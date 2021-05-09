@@ -4,7 +4,7 @@ description: Agra Crowd Sourced Emergency Oxygen Suppliers Directory
 
 # आगरा में ऑक्सीजन आपूर्तिकर्ता / Oxygen Suppliers in Agra
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 ## आवश्यक चीजों / Things required
 

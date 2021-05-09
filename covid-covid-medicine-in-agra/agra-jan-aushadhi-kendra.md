@@ -28,5 +28,5 @@ description: 'Source: http://janaushadhi.gov.in/StoreDetails.aspx'
 | Sikandra | Shop No-25, Ground Floor, Pushpanjali, Commercial Complex, Sikandra |  | [https://goo.gl/maps/cZkdoWDrHgyHkuqK6](https://goo.gl/maps/cZkdoWDrHgyHkuqK6) |
 | Sikandra | Shop No-1, Krishna Market, Prop. No: 43/NN/P-25, Neerav Nikunj Phase-1, Near Holy Public School Xing, Sikandra |  |  |
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 

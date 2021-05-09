@@ -4,7 +4,7 @@
 
 **Twitter** - [https://twitter.com/AgraCovidCare](https://twitter.com/AgraCovidCare)
 
-**Telegram** - [http://bit.ly/Telegram-AgraCovidCare](http://bit.ly/Telegram-AgraCovidCare)
+**Telegram** - ****[https://t.me/AgraCovidCare](https://t.me/AgraCovidCare) / [https://t.me/AgraCovidCareHelp](https://t.me/AgraCovidCareHelp)
 
 **Email** - [team@agracovidcare.in](mailto:team@agracovidcare.in) \| [agracovidcare@gmail.com](mailto:agracovidcare@gmail.com)
 

@@ -1,6 +1,6 @@
 # Contribute Verified Data
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 ## फेसबुक / ट्विटर पर एक सत्यापित लीड मिला? / Found a Verified Lead on Facebook / Twitter?
 

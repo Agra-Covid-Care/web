@@ -1,6 +1,6 @@
 # 📈 आगरा COVID दैनिक अपडेट / Agra COVID Daily Updates
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 Source: Office of District Magistrate Agra
 

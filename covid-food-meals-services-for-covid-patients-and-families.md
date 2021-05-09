@@ -1,6 +1,6 @@
 # 🥗COVID मरीजों के लिए भोजन सेवाएं / Food Meals Services for COVID Patients
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
 **आवश्यक सूचना** - यह सेवा केवल सीओवीआईडी के सकारात्मक रोगियों के लिए है जो होम आइसोलेशन और उनके परिवारों के लिए है जिनके घर के सदस्य खाना पकाने में असमर्थ हैं। यह सेवा का कार्य है । यह टिफिन सर्विस सेंटर नहीं है। कृपया अपने क्षेत्र को ध्यान में रखकर उसी नम्बर पर ही सम्पर्क करें। 
 
@@ -50,5 +50,5 @@
 
 **Disclaimer** - This service is only for COVID positive patients in home isolation and their families whose household members are unable to cook. This is a work of service. It is not a tiffin service. Please keep in mind your area and contact the same number.
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 

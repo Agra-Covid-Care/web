@@ -4,11 +4,11 @@ description: 'Source: https://pmjay.gov.in/cowin/COVID_Vaccination_Hospitals'
 
 # 💉 निजी टीकाकरण केंद्र / Private Vaccination Centres
 
-**Please join Telegram Group for regular updates -** [**https://bit.ly/Telegram-AgraCovidCare**](https://bit.ly/Telegram-AgraCovidCare)\*\*\*\*
+**Please join Telegram Group for regular updates -** [**https://t.me/AgraCovidCare**](https://t.me/AgraCovidCare)\*\*\*\*
 
-> ### **वर्तमान में केवल 45+ आयु समूह के लिए / Currently Only for 45+ Age Group**
+> ### 18-44 आयु वर्ग के लिए टीकाकरण आगरा में 10-मई से केवल सरकारी केंद्रों पर शुरू होगा / Vaccination for 18-44 Age group starting in Agra from 10-May only at government centers
 
-**Updated: 04-May-2021**
+**Updated: 09-May-2021**
 
 | Name of the Vaccination Site\* | Address | Area |
 | :--- | :--- | :--- |
