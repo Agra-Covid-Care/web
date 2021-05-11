@@ -13,7 +13,7 @@ description: 'Source: upegov.in/coronabeds'
 * **एमजी रोड / MG Road - 1**
 * **साईं का ताकिया / Sai Ka Takiya - 1**
 * **बाईपास रोड / Bypass Road - 7**
-* **दिल्ली गेट / Delhi Gate - 1**
+* **एतमादपुर / Etmadpur - 1**
 * **कमला नगर / Kamla Nagar - 1**
 * **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
 * **ट्रांस यमुना / Trans Yamuna - 3**
@@ -122,15 +122,15 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 70**
 
-## दिल्ली गेट / Delhi Gate
+## एतमादपुर / Etmadpur
 
-### रवि अस्पताल **/** Ravi Hospital 
+### नेमिनाथ आयुर्वेदिक अस्पताल **/** Naiminath Ayurevedic Hospital
 
-📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/eVkW9uG5xHP75AiQ6)\)
+📍 NH-19, Nawalpur, Kuberpur \(near Expressway\), Etmadpur, Agra \([Open Map](https://goo.gl/maps/YFku3m3Tuv3945vs6)\)
 
-📱 [9917001200](tel:9917001200) \| 📱 [7088851666](tel:7088851666) \| 📱 [9837244600](tel:9837244600)
+📱 [9837947634](tel:9837947634) \| 📱 [9837247776](tel:9837247776)
 
-🛏️ **Total Beds - 50 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 2**
+🛏️ **Total Beds - 150**
 
 ## कमला नगर / Kamla Nagar
 
