@@ -13,10 +13,10 @@ description: 'Source: upegov.in/coronabeds'
 * **एमजी रोड / MG Road - 1**
 * **साईं का ताकिया / Sai Ka Takiya - 1**
 * **बाईपास रोड / Bypass Road - 7**
-* **एतमादपुर / Etmadpur - 1**
 * **कमला नगर / Kamla Nagar - 1**
 * **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
 * **ट्रांस यमुना / Trans Yamuna - 3**
+* **एतमादपुर / Etmadpur - 1**
 * **बोदला / Bodla - 1**
 * **बरौली अहीर / Barauli Ahir - 1**
 * **न्यू आगरा / New Agra - 1**
@@ -122,16 +122,6 @@ description: 'Source: upegov.in/coronabeds'
 
 🛏️ **Total Beds - 70**
 
-## एतमादपुर / Etmadpur
-
-### नेमिनाथ आयुर्वेदिक अस्पताल **/** Naiminath Ayurevedic Hospital
-
-📍 NH-19, Nawalpur, Kuberpur \(near Expressway\), Etmadpur, Agra \([Open Map](https://goo.gl/maps/YFku3m3Tuv3945vs6)\)
-
-📱 [9837947634](tel:9837947634) \| 📱 [9837247776](tel:9837247776)
-
-🛏️ **Total Beds - 150**
-
 ## कमला नगर / Kamla Nagar
 
 ### रश्मि मेडिकेयर / Rashmi Medicare
@@ -209,6 +199,16 @@ description: 'Source: upegov.in/coronabeds'
 📱 [9759215602](tel:9759215602)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 75 \| Oxygen Tanks - 0**
+
+## एतमादपुर / Etmadpur
+
+### नेमिनाथ आयुर्वेदिक अस्पताल **/** Naiminath Ayurevedic Hospital
+
+📍 NH-19, Nawalpur, Kuberpur \(near Expressway\), Etmadpur, Agra \([Open Map](https://g.page/NAMCAgra?share)\)
+
+📱 [9837947634](tel:9837947634) \| 📱 [9837247776](tel:9837247776)
+
+🛏️ **Total Beds - 150**
 
 ## बोदला / Bodla
 
