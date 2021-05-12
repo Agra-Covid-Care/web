@@ -34,5 +34,5 @@ description: Agra Crowd Sourced COVID Emergency Directory
 
 {% page-ref page="agra-covid-hospitals/private.md" %}
 
-{% page-ref page="agra-covid-hospitals/covid-hospitals-for-suspected-covid-cases.md" %}
+
 
