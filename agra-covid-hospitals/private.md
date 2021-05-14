@@ -13,10 +13,10 @@ description: 'Source: upegov.in/coronabeds'
 * **एमजी रोड / MG Road - 1**
 * **साईं का ताकिया / Sai Ka Takiya - 1**
 * **बाईपास रोड / Bypass Road - 7**
-* **दिल्ली गेट / Delhi Gate - 1**
 * **कमला नगर / Kamla Nagar - 1**
 * **शहीद नगर \| विभव नगर / Shaheed Nagar \| Vibhav Nagar - 3**
 * **ट्रांस यमुना / Trans Yamuna - 3**
+* **एतमादपुर / Etmadpur - 1**
 * **बोदला / Bodla - 1**
 * **बरौली अहीर / Barauli Ahir - 1**
 * **न्यू आगरा / New Agra - 1**
@@ -82,13 +82,11 @@ description: 'Source: upegov.in/coronabeds'
 
 \*\*\*\*
 
-### मूलचंद हॉस्पिटल / Moolchand Hospita**l**
+### मूलचंद हॉस्पिटल / Moolchand Hospita**l** 
 
 📍 NH2, Artauni, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/an5XmMC9tAHwzgFv5)\)
 
-☎️ [0562 3066666](tel:05623066666)
-
-📱 [9917122244](tel:9917122244) \| 📱 [9012514000](tel:9012514000) \| 📱 [9012516000](tel:9012516000)
+📱 [9717157238](tel:9717157238) \| 📱 [9917122244](tel:9917122244)
 
 🛏️ **Total Beds - 100 \| Oxygen Cylinders - 150 \| Oxygen Tanks - 0**
 
@@ -121,16 +119,6 @@ description: 'Source: upegov.in/coronabeds'
 📍 Highway Rd, Shastripuram, Sikandra, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/zwkJZ6PR5sLeouJd7)\)
 
 🛏️ **Total Beds - 70**
-
-## दिल्ली गेट / Delhi Gate
-
-### रवि अस्पताल **/** Ravi Hospital 
-
-📍 Delhi Gate, Agra, Uttar Pradesh \([Open Map](https://goo.gl/maps/eVkW9uG5xHP75AiQ6)\)
-
-📱 [9917001200](tel:9917001200) \| 📱 [7088851666](tel:7088851666) \| 📱 [9837244600](tel:9837244600)
-
-🛏️ **Total Beds - 50 \| Oxygen Cylinders - 30 \| Oxygen Tanks - 2**
 
 ## कमला नगर / Kamla Nagar
 
@@ -209,6 +197,16 @@ description: 'Source: upegov.in/coronabeds'
 📱 [9759215602](tel:9759215602)
 
 🛏️ **Total Beds - 50 \| Oxygen Cylinders - 75 \| Oxygen Tanks - 0**
+
+## एतमादपुर / Etmadpur
+
+### नेमिनाथ आयुर्वेदिक अस्पताल **/** Naiminath Ayurevedic Hospital
+
+📍 NH-19, Nawalpur, Kuberpur \(near Expressway\), Etmadpur, Agra \([Open Map](https://g.page/NAMCAgra?share)\)
+
+📱 [9837947634](tel:9837947634) \| 📱 [9837247776](tel:9837247776)
+
+🛏️ **Total Beds - 150**
 
 ## बोदला / Bodla
 
